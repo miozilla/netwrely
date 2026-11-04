@@ -15,4 +15,4 @@ netwrely : | Network Reliability Engineer | Network Intelligence, Flow Analyzer,
 - Azure : NSG Flow Logs + Traffic Analytics
 
 
-## Analyze Cost & Performance with Flow Analyzer
+## Analyze with Flow Analyzer (Cost & Performance)
